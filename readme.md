@@ -1,8 +1,8 @@
 # The CSS Podcasts Transcripts
 
-[css-podcast-transcripts.vercel.app](https://css-podcast-transcripts.vercel.app)
+[css-podcast-transcripts.vercel.app](https://csspodscripts.vercel.app)
 
-Inspired by [Andrej Karpathy's work](https://karpathy.ai/lexicap/) for the podcast of Lex Fridman, I made the transcripts for my favorite [The CSS Podcast](https://pod.link/thecsspodcast) show.
+Inspired by [Andrej Karpathy's work](https://karpathy.ai/lexicap) for the podcast of Lex Fridman, I made the transcripts for my favorite [The CSS Podcast](https://pod.link/thecsspodcast) show.
 
 Here is the summary of the process:
 
@@ -16,5 +16,5 @@ To find out more, visit this [Colab notebook](google.com).
 ---
 
 
-Created by [@masonjnguyen](https://masonjnguyen.com). Released under the MIT license.  
-This project uses the document template by [Nextra](https://nextra.vercel.app/).
+Created by [masonjnguyen.com](https://masonjnguyen.com). Released under the MIT license.  
+This project uses the document template by [Nextra](https://nextra.vercel.app).
