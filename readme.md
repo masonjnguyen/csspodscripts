@@ -1,6 +1,6 @@
 # The CSS Podcasts Transcripts
 
-[css-podcast-transcripts.vercel.app](https://csspodscripts.vercel.app)
+[csspodscripts.vercel.app](https://csspodscripts.vercel.app)
 
 Inspired by [Andrej Karpathy's work](https://karpathy.ai/lexicap) for the podcast of Lex Fridman, I made the transcripts for my favorite [The CSS Podcast](https://pod.link/thecsspodcast) show.
 
