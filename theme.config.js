@@ -19,15 +19,15 @@ export default {
       <meta name="twitter:card" content="summary_large_image" />
       <meta
         name="twitter:image"
-        content="https://css-podcast-transcripts.vercel.app/og.png"
+        content="https://csspodscripts.vercel.app/og.png"
       />
       <meta
         name="twitter:site:domain"
-        content="css-podcast-transcripts.vercel.app"
+        content="csspodscripts.vercel.app"
       />
       <meta
         name="twitter:url"
-        content="https://css-podcast-transcripts.vercel.app"
+        content="https://csspodscripts.vercel.app"
       />
       <meta name="og:title" content="CSSPodScripts" />
       <meta name="og:image" content="https://csspodscripts.vercel.app/og.png" />
