@@ -1,4 +1,4 @@
-# The CSS Podcasts Transcripts
+# The CSS Podcast's Transcripts
 
 [csspodscripts.vercel.app](https://csspodscripts.vercel.app)
 
